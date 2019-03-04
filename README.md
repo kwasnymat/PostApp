@@ -1,3 +1,3 @@
 # PostApp
  
-Backend App created to understand basics concepts of Node.js and MongoDB.
+Backend App created to understand the basics concepts of Node.js and MongoDB.
